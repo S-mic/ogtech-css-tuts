@@ -1,0 +1,31 @@
+/*selected tag {
+    property : value
+}*/
+
+
+
+
+body {
+
+    background: url(IMG_20221006_205431.png);
+color: white;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+div {
+    color: darkolivegreen;
+
+}
+h2 {
+    color: orange;
+}
+table {
+    color: blueviolet;
+}
+thead{
+    color: brown;
+}
+span{
+    color: blue;
+}

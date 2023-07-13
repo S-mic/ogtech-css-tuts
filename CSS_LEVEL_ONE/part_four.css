@@ -1,0 +1,23 @@
+/*Selected tag {
+    property : value
+}
+*/
+.firstDiv{
+    color: cyan;
+    border-color: blue;
+    border-width: thick;
+    border-style: solid;
+}
+.secondDiv{
+    color: brown;
+}
+.hire{
+    color: green;
+    text-align: center ;
+    
+
+}
+#slogan{
+    color: blueviolet;
+    text-decoration: line-through;
+}
