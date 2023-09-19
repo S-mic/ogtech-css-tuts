@@ -151,7 +151,7 @@ ul#services li {
     padding: 20px;
     border: #cccccc solid 1px;
     margin-bottom: 5px;
-    background: grey;
+    background:grey;
 }
 
 image {
@@ -162,7 +162,9 @@ table {
     background: white;
     float: none;
     text-align: center;
-    text-decoration: solid;
+    text-decoration: solid; 
+    text-transform: capitalize;
+    background: url(./IMG/street\ light\ 2.jpg);
 }
 
 

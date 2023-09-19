@@ -19,6 +19,7 @@ header nav {
     width: 80%;
     margin: auto;
     overflow: hidden;
+    justify-content: center;
 }
 ul {
     margin: 0;
@@ -67,6 +68,7 @@ header li {
     float: left;
     display: inline;
     padding: 0 20px 0 20px;
+    
 }
 
 header #branding {
@@ -169,6 +171,7 @@ ul#services li{
     border: #cccccc solid 1px;
     margin-bottom: 5px;
     background: lightgrey;
+
 }
 image{
     float: center;
